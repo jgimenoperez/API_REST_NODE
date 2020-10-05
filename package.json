@@ -1,0 +1,20 @@
+{
+  "name": "API_REST_NODE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgimenoperez/API_REST_NODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgimenoperez/API_REST_NODE/issues"
+  },
+  "homepage": "https://github.com/jgimenoperez/API_REST_NODE#readme"
+}
