@@ -21,3 +21,8 @@ app.listen(app.get('port'),()=>{
 });
 
 //https://www.youtube.com/watch?v=QNBozn-zPhs&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index=4
+
+
+//PUBLICANDO UNA API REST
+
+//https://www.youtube.com/watch?v=YkgNRgjjDDE
