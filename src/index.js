@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require('body-parser');
 const app = express();
 
-app.use(  .urlencoded({
+app.use(.urlencoded({
     extended: false
 }));
 
